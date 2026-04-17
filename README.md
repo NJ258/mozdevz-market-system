@@ -96,4 +96,12 @@ Abra em:
 
 ## Licença
 
-Este projeto não inclui uma licença específica por padrão. Se desejar publicar no GitHub, adicione uma licença adequada ao seu uso.
+Este projeto não inclui uma licença específica por padrão.
+
+## Autoria e Colaboração
+
+Este projeto é resultado de uma colaboração com funções bem definidas:
+
+- **NJ258** — niljaneiro258@gmail.com — Co-fundador do projecto
+- **arybabe22k** — aristidesguilherme77@gmail.com — Fundador do projecto
+
